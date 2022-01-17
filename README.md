@@ -1,5 +1,5 @@
 *HELLO
-**welcomne
+**welcome
 
 trying out VCS  
 LETS SEE
